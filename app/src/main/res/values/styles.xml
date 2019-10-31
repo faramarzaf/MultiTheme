@@ -12,15 +12,17 @@
         <item name="textcolor">#000</item>
         <item name="texttitle">#000</item>
 
-        <item name="btnBackground">#888888</item>
+        <item name="btnBackground">#CC1212</item>
         <item name="btnTxtColor">#FFFFFF</item>
 
-
         <item name="lineBackground">#000000</item>
-
         <item name="hintColor">#949494</item>
+        <item name="strokeColor">#050505</item>
 
-        <item name="strokeColor">#000000</item>
+        <item name="txtProfileName">#C51212</item>
+        <item name="txtEmailName">#949494</item>
+        <item name="txtProfileInfo">#949494</item>
+        <item name="drawableIcons">#1D1D1D</item>
 
     </style>
 
@@ -34,17 +36,18 @@
         <item name="textcolor">#fff</item>
         <item name="texttitle">#fff</item>
 
-        <item name="btnBackground">#B4B4B4</item>
-        <item name="btnTxtColor">#FFFFFF</item>
+        <item name="btnBackground">#FFFFFF</item>
+        <item name="btnTxtColor">#000000</item>
         <item name="lineBackground">#FFFFFF</item>
 
         <item name="hintColor">#949494</item>
-
-        <item name="strokeColor">#00ACC1</item>
-
+        <item name="strokeColor">#CC1212</item>
         <item name="colorControlActivated" tools:targetApi="lollipop">#D81B60</item>
 
-
+        <item name="txtProfileName">#C51212</item>
+        <item name="txtEmailName">#B4B4B4</item>
+        <item name="txtProfileInfo">#E6E6E6</item>
+        <item name="drawableIcons">#E6E6E6</item>
     </style>
 
     <style name="TextView" />

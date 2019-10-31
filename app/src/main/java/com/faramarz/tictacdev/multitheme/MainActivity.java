@@ -13,7 +13,6 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity implements CompoundButton.OnCheckedChangeListener {
 
     Switch switchTheme;
-    TextView txtTextTheme;
     SharedPref sharedPref;
     SharedPreferences pref;
     String Mypre = "Save";
@@ -32,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
         setContentView(R.layout.activity_main);
         pref = getSharedPreferences(Mypre, 0);
         switchTheme = findViewById(R.id.switchTheme);
-        txtTextTheme = findViewById(R.id.txtTextTheme);
+
         switchTheme.setOnCheckedChangeListener(this);
         nightMode();
 
