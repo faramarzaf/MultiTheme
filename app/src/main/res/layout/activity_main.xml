@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="?attr/backgroundcolor"
-
     tools:context=".MainActivity">
 
 
@@ -17,7 +16,6 @@
         android:layout_margin="10dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="16dp"
-
         android:layout_marginEnd="8dp"
         android:adjustViewBounds="true"
         android:background="@drawable/user_profile"

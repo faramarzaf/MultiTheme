@@ -10,13 +10,9 @@
 
         <item name="backgroundcolor">#F1F1F1</item>
         <item name="textcolor">#000</item>
-        <item name="texttitle">#000</item>
-
+        <item name="hintColor">#949494</item>
         <item name="btnBackground">#CC1212</item>
         <item name="btnTxtColor">#FFFFFF</item>
-
-        <item name="lineBackground">#000000</item>
-        <item name="hintColor">#949494</item>
         <item name="strokeColor">#050505</item>
 
         <item name="txtProfileName">#C51212</item>
@@ -34,13 +30,9 @@
         <item name="colorAccent">#fff</item>
         <item name="backgroundcolor">#303030</item>
         <item name="textcolor">#fff</item>
-        <item name="texttitle">#fff</item>
-
+        <item name="hintColor">#949494</item>
         <item name="btnBackground">#FFFFFF</item>
         <item name="btnTxtColor">#000000</item>
-        <item name="lineBackground">#FFFFFF</item>
-
-        <item name="hintColor">#949494</item>
         <item name="strokeColor">#CC1212</item>
         <item name="colorControlActivated" tools:targetApi="lollipop">#D81B60</item>
 
@@ -48,24 +40,6 @@
         <item name="txtEmailName">#B4B4B4</item>
         <item name="txtProfileInfo">#E6E6E6</item>
         <item name="drawableIcons">#E6E6E6</item>
-    </style>
-
-    <style name="TextView" />
-
-    <style name="TextView.Label">
-        <item name="android:layout_alignParentRight">true</item>
-        <item name="android:layout_alignParentTop">true</item>
-        <item name="android:layout_marginTop">10dp</item>
-        <item name="android:layout_marginRight">30dp</item>
-        <item name="android:textSize">24sp</item>
-        <item name="android:paddingLeft">10dp</item>
-        <item name="android:paddingRight">10dp</item>
-        <item name="android:paddingTop">5dp</item>
-        <item name="android:paddingBottom">5dp</item>
-        <item name="android:background">#63FFFFFF</item>
-        <item name="android:textColor">@android:color/white</item>
-
-
     </style>
 
 

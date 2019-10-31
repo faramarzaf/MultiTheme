@@ -8,26 +8,16 @@
         <attr name="colorPrimaryDark" format="color" />
         <attr name="colorAccent" format="color" />
         <attr name="backgroundcolor" format="color" />
-
         <attr name="textcolor" format="color" />
-        <attr name="texttitle" format="color" />
-
         <attr name="btnBackground" format="color" />
         <attr name="btnTxtColor" format="color" />
 
-
-        <attr name="lineBackground" format="color" />
-
         <!-- hint color of text view that is below of switch btn-->
         <attr name="hintColor" format="color" />
-
         <!--stroke colors of btns-->
         <attr name="strokeColor" format="color" />
-
-
         <!--  switch btn color  -->
         <attr name="colorControlActivated" format="color" />
-
 
         <attr name="txtProfileName" format="color"/>
         <attr name="txtEmailName" format="color"/>
